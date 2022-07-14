@@ -1,5 +1,5 @@
 <h1 align="center">
-  Windows command processor
+  Windows console apps
 </h1>
 <p align="center">
   My windows console apps using Win32API
